@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Gupter:wght@400;500;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+margin:0px;
+padding:0px;
+box-sizing:border-box;
+/* border: 1px solid red; */
+}
+body{
+height:100%;
+width:100%;
+background-color: whitesmoke;
+}
+.galleryPicture{
+    box-shadow: 0px 0px 20px rgb(0, 0, 0,0.6);
+    
+    
+}
+.fontex{
+    font-family: 'Playfair Display', serif;
+
+}
+.fontex2{
+    font-family: 'Exo 2', sans-serif;
+}
+.fontp{
+    font-family: "Gupter", serif;
+}
